@@ -10,7 +10,9 @@ This project implements a radar system using an Arduino-controlled servo and an 
 
 Click the icon below to download the demo video 
 
-![Radar Demo](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/releases/download/v1.0/Demo.mp4)
+[Radar Demo](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/releases/download/v1.0/Demo.mp4)
+
+[Structure](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/releases/download/v1.0/Structure.jpg)
 
 </ul>
 </details>
@@ -21,7 +23,7 @@ Click the icon below to download the demo video
   
 Click the icon below to download the documentation
   
-![Documentation](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/releases/download/v1.0/Documentation.pdf)
+[Documentation](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/releases/download/v1.0/Documentation.pdf)
 
 </ul>
 </details>
