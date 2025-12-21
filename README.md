@@ -1,6 +1,5 @@
 # Arduino Radar Scanner 📡
 
-## Overview
 This project implements a radar system using an Arduino-controlled servo and an ultrasonic sensor (HY-SRF05) to detect objects. The system scans a 180° range, measures distances, and visualizes them in real-time using a Processing application. It can highlight nearby objects and provide alerts for sudden changes in distance readings.
 
 <details>
@@ -27,6 +26,10 @@ Click the icon below to download the documentation
 
 </ul>
 </details>
+
+
+[![Arduino](https://img.shields.io/badge/Arduino-Radar_Scanner-00979D?style=for-the-badge)](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/blob/main/Arduino.Radar.ino)
+
 
 ---
 
@@ -56,7 +59,7 @@ Click the icon below to download the documentation
 | ECHO      | 11          | Echo pin |
 | OUT / MODE | (Not used) | Optional pin – left unconnected |
 
-> **Note:**  
+> [!NOTE]
 > HY-SRF05 supports both **one-pin** and **two-pin** modes.  
 > In this project we use **two-pin mode (TRIG + ECHO)** which gives better stability.
 
@@ -143,8 +146,9 @@ Click the icon below to download the documentation
 
 ---
 
-## License
-This project is released under the MIT License.  
+## License ⚖️
+
+This project is released under the [MIT License](https://github.com/Rohibakhsh-Niloofar/Arduino-Radar-Scanner/blob/main/LICENSE)
 
 ---
 
